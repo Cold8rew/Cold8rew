@@ -11,8 +11,8 @@ Here are some ideas to get you started:-->
 - <a href="https://devlog.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 - 🥇1일1커밋과 회고를 매일 실천 합니다
 - 🔭 I’m currently working on spring-mvc, spring-boot, javascript
-- 🌱 I’m currently learning JPA, javascript, spring-boot
-- 📫 How to reach me: goodlife1359@gmail.com
+- 🌱 I’m currently learning spring-boot, spring-legarcy,
+- 📫 How to reach me: ghj8617@naver.com
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeyoungchoi&layout=compact)](https://github.com/meeyoungchoi/github-readme-stats)
