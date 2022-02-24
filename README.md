@@ -14,6 +14,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning JPA, javascript, spring-boot
 - 📫 How to reach me: goodlife1359@gmail.com
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeyoungchoi&layout=compact)](https://github.com/meeyoungchoi/github-readme-stats)
 ![Meeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeyoungchoi&show_icons=true&theme=radical)
 
@@ -40,6 +41,7 @@ TOY PROJECT
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meeyoungchoi&repo=spring_bookmall_project&show_icons=true&bg_color=FFFFFF)](https://github.com/meeyoungchoi/spring_bookmall_project)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+-->
 
 <!--
 **Cold8rew/Cold8rew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
