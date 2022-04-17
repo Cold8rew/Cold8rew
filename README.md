@@ -9,7 +9,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on spring-mvc, spring-boot, javascript
-- 🌱 I’m currently learning spring-boot, spring-legarcy,
+- 🌱 I’m currently learning MVC, MSA
 - 📫 How to reach me: ghj8617@naver.com
 
 <!--
