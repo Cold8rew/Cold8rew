@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HelloWorld!&fontSize=90)
 ### Hi there 👋
 
-
-Here are some ideas to get you started:-->
-
 - 🔭 I’m currently working on spring-mvc, spring-boot, javascript
 - 🌱 I’m currently learning MVC, MSA
 - 📫 How to reach me: ghj8617@naver.com
