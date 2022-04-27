@@ -12,6 +12,9 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning MVC, MSA
 - 📫 How to reach me: ghj8617@naver.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cold8rew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeyoungchoi&layout=compact)](https://github.com/meeyoungchoi/github-readme-stats)
 ![Meeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeyoungchoi&show_icons=true&theme=radical)
